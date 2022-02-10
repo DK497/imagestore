@@ -1,3 +1,4 @@
+
 # Image Store app
 
 <!-- PROJECT LOGO -->
@@ -17,4 +18,8 @@
 
 <!-- Video giving features of the project -->
 ## Video giving features of the project 
+
+
+
+https://user-images.githubusercontent.com/38583109/153492389-3d42a41e-d5d6-474e-b39b-efe28a1e0c7a.mp4
 
